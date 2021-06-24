@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shawlycode
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently on react
 - 💞️ I’m looking to collaborate on a project that will build my experience and sharpened my skills. 
 - 📫 How to reach me kutinaorlando@gmail.com
 
